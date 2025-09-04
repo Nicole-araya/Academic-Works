@@ -1,0 +1,14 @@
+
+table {
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    align-content: center;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+th, td {
+    padding: 5px;
+    background: #595354;
+}

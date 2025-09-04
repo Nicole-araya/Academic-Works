@@ -1,0 +1,4 @@
+R01	Volcan Arenal, San Carlos
+R02	Rio Celeste, San Carlos
+R03	Tamarindo, Guanacaste
+R04	Puerto Viejo, Limon

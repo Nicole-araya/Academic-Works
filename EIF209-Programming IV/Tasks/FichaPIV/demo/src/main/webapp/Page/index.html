@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ficha</title>
+    <script src="https://kit.fontawesome.com/2b89cbbb0c.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../Css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="encabezado">
+
+    <div class="articulo">
+        <div class="titulo-paper"><p class="articulo-nombre">"An Efficient Approach for Accessing C Data Structures from
+            JavaScript"</p>
+            <p>Association for Computing Machinery, New York, NY, United States, 28 July 2014</p>
+        </div>
+
+        <div class="autores">
+            <div class="autor">
+                <img src="../imagenes/Matthias Grimmer.jpg">
+                <p> Matthias Grimmer </p>
+            </div>
+            <div class="autor">
+                <img src="../imagenes/Thomas Würthinger.png">
+                <p> Thomas Würthinger </p>
+            </div>
+            <div class="autor">
+                <img src="../imagenes/Andreas Wöß.png">
+                <p> Andreas Wöß </p>
+            </div>
+            <div class="autor">
+                <img src="../imagenes/Hanspeter Mössenböck.webp">
+                <p> Hanspeter Mössenböck </p>
+            </div>
+
+            <div></div>
+        </div>
+
+    </div>
+
+    <div class="estudiantes">
+        <p>Estudiantes: </p>
+        <i class="fa-solid fa-kiwi-bird">
+            <div class="nombre-estudiante">Nicole Araya Ballestero</div>
+        </i>
+        <i class="fa-solid fa-user-astronaut">
+            <div class="nombre-estudiante">Ariana Solano Vallejos</div>
+        </i>
+    </div>
+
+</div>
+
+
+<div class="cuerpo">
+    <div class="box">
+        <div class="icon"><i class="ic fa-solid fa-circle-question"></i></div>
+        <div class="content">
+            <h3>Problema</h3>
+            <p> Trata de un enfoque novedoso para permitir que las aplicaciones de JavaScript accedan a estructuras de
+                datos C sin sobrecarga de rendimiento. Y esto se debe a que los lenguajes dinámicos como JavaScript no
+                tienen un diseño de memoria fijo para los datos en tiempo de ejecución ni permiten accesos de memoria de
+                bajo nivel, lo que dificulta la interoperabilidad con lenguajes como C.</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="icon"><i class="ic fa-solid fa-lightbulb"></i></div>
+        <div class="content">
+            <h3>Otras Solciones</h3>
+            <p>Otras herramientas que se pueden utilizar para llegar a resultados similares son Google's V8 JavaScript
+                engine. Pero el problema es que no almacenan datos en tiempo de ejecución a pesar de tener un
+                rendimiento más alto, puede ser superado con este nuevo enfoque.</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="icon"><i class="ic fa-solid fa-flask"></i></div>
+        <div class="content">
+            <h3>Experimento</h3>
+            <p>La solución propuesta se enfoca en permitir que las aplicaciones JavaScript utilicen punteros C de forma
+                transparente como receptores de accesos a objetos o accesos a matrices, por lo que el programador puede
+                acceder a las estructuras de datos C como si fueran objetos JavaScript. Y para lograr esto utilizaron la
+                herramienta Truffle modificándola tanto en su versión JavaScript y en C, generando diferentes
+                operaciones de acceso en tiempo de ejecución dependiendo de si el receptor es un objeto JavaScript o un
+                puntero C.</p>
+        </div>
+    </div>
+
+</div>
+
+<div class="pie">
+    <p>El articulo completo puede ser consultado <a
+            href="https://dl.acm.org.una.remotexs.co/doi/10.1145/2633301.2633302">aqui</a> <i
+            class="fa-solid fa-link"></i></p>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+﻿  Cine.cpp
+  ColeccionPF.cpp
+  Funcion.cpp
+  main.cpp
+  Pelicula.cpp
+  Sala.cpp
+  Generando código...
+H:\UNA\2 año\II Ciclo\EIF201\PROYECTO (79,1): warning C4715: 'Sala::insertarEstadoAsiento': no todas las rutas de acceso de control devuelven un valor
+H:\UNA\2 año\II Ciclo\EIF201\PROYECTO (167,1): warning C4715: 'Sala::retornaNumeroFila': no todas las rutas de acceso de control devuelven un valor
+H:\UNA\2 año\II Ciclo\EIF201\PROYECTO (190,1): warning C4715: 'Sala::retornaLetraFila': no todas las rutas de acceso de control devuelven un valor
+H:\UNA\2 año\II Ciclo\EIF201\PROYECTO (319,1): warning C4715: 'ColeccionPF::disponibilidadSala': no todas las rutas de acceso de control devuelven un valor
+  Proyecto_1 _NicoleArayaBallestero.vcxproj -> H:\UNA\2 año\II Ciclo\EIF201\PROYECTO #1\4 0250 0623\Proyecto_1 _NicoleArayaBallestero\x64\Debug\Proyecto_1 _NicoleArayaBallestero.exe

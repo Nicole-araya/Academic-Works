@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\ColaLista\ColaLista\Cola.h(65): warning C4715: 'Cola<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::front': no todas las rutas de acceso de control devuelven un valor
+  ColaLista.vcxproj -> C:\Users\Nicole\Desktop\Estructuras Datos\programas\ColaLista\x64\Debug\ColaLista.exe

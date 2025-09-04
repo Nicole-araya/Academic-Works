@@ -1,0 +1,22 @@
+
+header{
+    border-bottom: 2px #F0527B solid;
+}
+
+footer{
+    border-top: 2px #F0527B solid;
+}
+
+form{
+    margin-left: 37%;
+}
+
+button[type=submit]{
+    margin-left: 168%;
+}
+
+input[name=nombreFld]{
+    background-color: #F0527B;
+    color: #1C1C1C;
+}
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1505766858 source:c:\users\ugit-pc02\desktop\archivosbinarios\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	"windows.h"
+
+1505766858 source:c:\users\ugit-pc02\google drive\universidad\ii ciclo 2017\estructuras de datos\clase 7\archivosbinarios\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	"windows.h"
+
+1525878708 source:c:\users\cristopher\google drive\universidad\i ciclo 2018\programación 2\clase 11\archivosbinarios\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	"windows.h"
+
+1525875108 source:g:\mi unidad\universidad\2022\programación ii\preparación de lecciones\programación 2\clase 11\archivosbinarios\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	"windows.h"
+
+1647980263 source:g:\mi unidad\universidad\2022\programación ii\semana 3\archivosbinarios\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	"windows.h"
+

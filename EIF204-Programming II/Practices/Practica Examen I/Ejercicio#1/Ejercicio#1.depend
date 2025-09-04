@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1649373424 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\main.cpp
+	<iostream>
+	"CuentaCorriente.h"
+	"CuentaAhorros.h"
+	"Cuenta.h"
+	"Banco.h"
+
+1649365916 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\src\cuenta.cpp
+	"Cuenta.h"
+
+1649365823 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\include\cuenta.h
+	<iostream>
+	<sstream>
+
+1649372793 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\src\cuentaahorros.cpp
+	"CuentaAhorros.h"
+
+1649366560 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\include\cuentaahorros.h
+	"Cuenta.h"
+
+1649367129 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\src\cuentacorriente.cpp
+	"CuentaCorriente.h"
+
+1649366685 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\include\cuentacorriente.h
+	"Cuenta.h"
+
+1649372745 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\src\banco.cpp
+	"Banco.h"
+
+1649370811 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\include\banco.h
+	"ListaCuenta.h"
+
+1649371087 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\include\listacuenta.h
+	"Nodo.h"
+
+1649367579 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\include\nodo.h
+	"Cuenta.h"
+
+1649371087 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\src\listacuenta.cpp
+	"ListaCuenta.h"
+
+1649370172 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#1\src\nodo.cpp
+	"Nodo.h"
+

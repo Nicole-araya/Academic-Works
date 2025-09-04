@@ -1,0 +1,44 @@
+
+1.En la raiz de la aplicacion creo el archivo Dockerfile
+2.Busco una imagen en Docker Hub y busco una version
+		Node (imagen oficial)
+		-version: 18-aplpine 3.18 (apline es una version reducida)
+3.En el archivo:
+
+		FROM node:18-alpine3.18
+		WORKDIR /app   	(donde quiero que trabajar, /app: donde esta la aplicacion)
+		COPY . . 	(copie el contenido actual, y copielo en el destino)
+		RUN yarn install --production
+		CMD["node", "src/index.js"] 	(index.js: es el archivo de entrada de mi aplicacion)
+		EXPOSE 3000		(el puerto)
+		
+		
+4. Voy al cmd y voy al directorio donde esta /app, donde esta el archivo Dockerfile
+
+Creamos un docker build, cada vez que haya una modificacion deberia hacerce otra vez:
+5. Escribo en el cmd: docker build -t tiger:tiger .		(-t es de pack, despues un nombre)
+
+6- comandos:
+			docker image ls  : para ver las imagenes creadas
+			docker container ls: para ver las imagenes que estan corriendo, si le pongo -a al final veo los que se corrieron antes
+			docker rm id: para eliminar un container, tengo que poner el id o con el nombre que el creo, -f fuerza la eliminacion
+			docker stop id: detiene el contenedor
+
+7- Correr la imagen: docker run -dp 3001:3000 tiger:tiger
+(-it: terminal iteractiva, -d para que corra en el background, -p para hacer mapeo de los puertos 8000:3001 el primero es puerto local y despues del contenedor)
+
+
+En vez de estar creando docker build cada vez que hay un cambio 
+en el codigo, mejor hacemos un montaje:
+
+1.docker run -it --mount "type=bind,src=$pwd,targe t=/src" tiger:tiger debian bash
+2. ls  (para ver donde nos vamos a meter dentro del contendor que sera el src)
+3. cd src (ahi tengo mis archivos)
+4. ls (para ver)
+5. cd src (entro al archivo)
+6.ls (y ahi veo lo que haya agregado)
+
+PD: nada le funciono de aqui al profe (
+1. docker run -dp 3001:3000 --mount "type=bind,src=$pwd,targe t=/src" tiger:tiger
+(docker run -it --mount "type=bind,src=$pwd,targe t=/src" tiger:tiger --bash) el que no le funciono el profe
+2. docker attach id o nombre generado )

@@ -1,0 +1,9 @@
+﻿  Controlador.cpp
+D:\Nicole\UNA\Estructuras Datos\Examen_I\Examen_I_COLA_extra\Examen Queue\Controlador.cpp(13,33): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Nicole\UNA\Estructuras Datos\Examen_I\Examen_I_COLA_extra\Examen Queue\Controlador.cpp(171,14): warning C4101: 'num': variable local sin referencia
+D:\Nicole\UNA\Estructuras Datos\Examen_I\Examen_I_COLA_extra\Examen Queue\Controlador.cpp(245,14): warning C4101: 'num': variable local sin referencia
+  Examen Queue.cpp
+  Excepcion.cpp
+  Generando código...
+D:\Nicole\UNA\Estructuras Datos\Examen_I\Examen_I_COLA_extra\Examen Queue\Cola.h(67): warning C4715: 'Cola<float>::front': no todas las rutas de acceso de control devuelven un valor
+  Examen Queue.vcxproj -> D:\Nicole\UNA\Estructuras Datos\Examen_I\Examen_I_COLA_extra\x64\Debug\Examen Queue.exe

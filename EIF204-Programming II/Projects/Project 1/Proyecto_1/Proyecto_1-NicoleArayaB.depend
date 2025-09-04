@@ -1,0 +1,275 @@
+# depslib dependency file v1.0
+1652576162 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\source.cpp
+	"Object.h"
+	"Transporte.h"
+	"RestriccionTransporte.h"
+	"ListaTransporte.h"
+	"Tiquete.h"
+	"Ruta.h"
+	"BusCar.h"
+
+1652240073 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\object.h
+	<iostream>
+	<sstream>
+
+1652480579 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\transporte.h
+	"Object.h"
+
+1652425805 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\restricciontransporte.h
+	"Transporte.h"
+
+1652568419 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\listatransporte.h
+	<fstream>
+	"NodoTransporte.h"
+	"TransporteBDatos.h"
+
+1652304811 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\nodotransporte.h
+	"Transporte.h"
+
+1652500243 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\transportebdatos.h
+	"RestriccionTransporte.h"
+	<fstream>
+
+1652583387 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\tiquete.h
+	"Object.h"
+	"Ruta.h"
+	"RutaReservar.h"
+
+1652505281 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\ruta.h
+	"Object.h"
+	"ListaTransporte.h"
+
+1652426856 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\rutareservar.h
+	"Ruta.h"
+
+1652567866 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\buscar.h
+	"ListaRuta.h"
+	"ListaTiquete.h"
+	"ListaTransporte.h"
+	"Excepcion.h"
+	"Archivo.h"
+	<fstream>
+
+1652574742 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\listaruta.h
+	"NodoRuta.h"
+	"RutaReservar.h"
+	"RutaBDatos.h"
+
+1652304642 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\nodoruta.h
+	"Ruta.h"
+
+1652571297 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\rutabdatos.h
+	"Ruta.h"
+	<fstream>
+
+1652492828 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\listatiquete.h
+	"NodoTiquete.h"
+	"TiquteBDatos.h"
+
+1652305518 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\nodotiquete.h
+	"Tiquete.h"
+
+1652492664 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\tiqutebdatos.h
+	"Tiquete.h"
+	<fstream>
+
+1652574411 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\excepcion.h
+	<iostream>
+	<sstream>
+
+1652570415 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\include\archivo.h
+	"ListaTransporte.h"
+	"ListaRuta.h"
+	<fstream>
+
+1652571109 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\archivo.cpp
+	"Archivo.h"
+
+1652584741 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\buscar.cpp
+	"BusCar.h"
+
+1652574411 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\excepcion.cpp
+	"Excepcion.h"
+
+1652574955 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\listaruta.cpp
+	"ListaRuta.h"
+
+1652492828 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\listatiquete.cpp
+	"ListaTiquete.h"
+
+1652574839 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\listatransporte.cpp
+	"ListaTransporte.h"
+
+1652304646 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\nodoruta.cpp
+	"NodoRuta.h"
+
+1652305518 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\nodotiquete.cpp
+	"NodoTiquete.h"
+
+1652304811 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\nodotransporte.cpp
+	"NodoTransporte.h"
+
+1651287360 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\object.cpp
+	"Object.h"
+
+1652577751 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\restricciontransporte.cpp
+	"RestriccionTransporte.h"
+
+1652574857 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\ruta.cpp
+	"Ruta.h"
+
+1652571600 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\rutabdatos.cpp
+	"RutaBDatos.h"
+
+1652575845 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\rutareservar.cpp
+	"RutaReservar.h"
+
+1652574254 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\tiquete.cpp
+	"Tiquete.h"
+
+1652492700 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\tiqutebdatos.cpp
+	"TiquteBDatos.h"
+
+1652575882 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\transporte.cpp
+	"Transporte.h"
+
+1652499965 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1-nicolearayab\src\transportebdatos.cpp
+	"TransporteBDatos.h"
+
+1652576162 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\source.cpp
+	"Object.h"
+	"Transporte.h"
+	"RestriccionTransporte.h"
+	"ListaTransporte.h"
+	"Tiquete.h"
+	"Ruta.h"
+	"BusCar.h"
+
+1652240073 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\object.h
+	<iostream>
+	<sstream>
+
+1652480579 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\transporte.h
+	"Object.h"
+
+1652425805 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\restricciontransporte.h
+	"Transporte.h"
+
+1652568419 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\listatransporte.h
+	<fstream>
+	"NodoTransporte.h"
+	"TransporteBDatos.h"
+
+1652304811 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\nodotransporte.h
+	"Transporte.h"
+
+1652500243 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\transportebdatos.h
+	"RestriccionTransporte.h"
+	<fstream>
+
+1652583387 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\tiquete.h
+	"Object.h"
+	"Ruta.h"
+	"RutaReservar.h"
+
+1652505281 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\ruta.h
+	"Object.h"
+	"ListaTransporte.h"
+
+1652426856 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\rutareservar.h
+	"Ruta.h"
+
+1652567866 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\buscar.h
+	"ListaRuta.h"
+	"ListaTiquete.h"
+	"ListaTransporte.h"
+	"Excepcion.h"
+	"Archivo.h"
+	<fstream>
+
+1652574742 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\listaruta.h
+	"NodoRuta.h"
+	"RutaReservar.h"
+	"RutaBDatos.h"
+
+1652304642 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\nodoruta.h
+	"Ruta.h"
+
+1652571297 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\rutabdatos.h
+	"Ruta.h"
+	<fstream>
+
+1652492828 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\listatiquete.h
+	"NodoTiquete.h"
+	"TiquteBDatos.h"
+
+1652305518 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\nodotiquete.h
+	"Tiquete.h"
+
+1652492664 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\tiqutebdatos.h
+	"Tiquete.h"
+	<fstream>
+
+1652574411 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\excepcion.h
+	<iostream>
+	<sstream>
+
+1652570415 c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\include\archivo.h
+	"ListaTransporte.h"
+	"ListaRuta.h"
+	<fstream>
+
+1652571109 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\archivo.cpp
+	"Archivo.h"
+
+1652584741 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\buscar.cpp
+	"BusCar.h"
+
+1652574411 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\excepcion.cpp
+	"Excepcion.h"
+
+1652574955 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\listaruta.cpp
+	"ListaRuta.h"
+
+1652492828 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\listatiquete.cpp
+	"ListaTiquete.h"
+
+1652574839 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\listatransporte.cpp
+	"ListaTransporte.h"
+
+1652304646 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\nodoruta.cpp
+	"NodoRuta.h"
+
+1652305518 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\nodotiquete.cpp
+	"NodoTiquete.h"
+
+1652304811 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\nodotransporte.cpp
+	"NodoTransporte.h"
+
+1651287360 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\object.cpp
+	"Object.h"
+
+1652577751 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\restricciontransporte.cpp
+	"RestriccionTransporte.h"
+
+1652574857 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\ruta.cpp
+	"Ruta.h"
+
+1652571600 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\rutabdatos.cpp
+	"RutaBDatos.h"
+
+1652575845 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\rutareservar.cpp
+	"RutaReservar.h"
+
+1652574254 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\tiquete.cpp
+	"Tiquete.h"
+
+1652492700 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\tiqutebdatos.cpp
+	"TiquteBDatos.h"
+
+1652575882 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\transporte.cpp
+	"Transporte.h"
+
+1652499965 source:c:\users\nicole\desktop\proga ii\proyecto i\proyecto_1_nicolearayaballestero\proyecto_1-nicolearayab\src\transportebdatos.cpp
+	"TransporteBDatos.h"
+

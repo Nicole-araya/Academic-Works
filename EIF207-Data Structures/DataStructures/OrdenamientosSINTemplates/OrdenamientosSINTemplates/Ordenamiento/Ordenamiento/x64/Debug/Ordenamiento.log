@@ -1,0 +1,9 @@
+﻿  Burbuja.cpp
+  Inserccion.cpp
+  MergeSort.cpp
+C:\Users\Nicole\Desktop\OrdenamientosSINTemplates\OrdenamientosSINTemplates\Ordenamiento\Ordenamiento\MergeSort.cpp(6,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  OrdenamientoSeleccion.cpp
+  QuickSort.cpp
+  Source.cpp
+  Generando código...
+  Ordenamiento.vcxproj -> C:\Users\Nicole\Desktop\OrdenamientosSINTemplates\OrdenamientosSINTemplates\Ordenamiento\x64\Debug\Ordenamiento.exe

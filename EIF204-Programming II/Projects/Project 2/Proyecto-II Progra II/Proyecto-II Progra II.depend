@@ -1,0 +1,467 @@
+# depslib dependency file v1.0
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\source.cpp
+	"TrajeEjecutivo.h"
+	"TrajeDeportivo.h"
+	"TrajeTrabajo.h"
+	"TiendaRopa.h"
+	"Venta.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\trajeejecutivo.h
+	"TrajeAbstracto.h"
+	"MangaLarga.h"
+	"DeVestir.h"
+	"Ejecutivo.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\trajeabstracto.h
+	"CamisaAbstracta.h"
+	"PantalonAbstracto.h"
+	"ZapatoAbstracto.h"
+	<sstream>
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\camisaabstracta.h
+	<sstream>
+	<iostream>
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\pantalonabstracto.h
+	<sstream>
+	<iostream>
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\zapatoabstracto.h
+	<sstream>
+	<iostream>
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\mangalarga.h
+	"CamisaAbstracta.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\devestir.h
+	"PantalonAbstracto.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\ejecutivo.h
+	"ZapatoAbstracto.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\trajedeportivo.h
+	"TrajeAbstracto.h"
+	"Camiseta.h"
+	"Tenni.h"
+	"Pantaloneta.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\camiseta.h
+	"CamisaAbstracta.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\tenni.h
+	"ZapatoAbstracto.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\pantaloneta.h
+	"PantalonAbstracto.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\trajetrabajo.h
+	"TrajeAbstracto.h"
+	"ConCuadros.h"
+	"Jeans.h"
+	"Bota.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\concuadros.h
+	"CamisaAbstracta.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\jeans.h
+	"PantalonAbstracto.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\bota.h
+	"ZapatoAbstracto.h"
+
+1655430704 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\tiendaropa.h
+	"Excepcion.h"
+	"CargaArchivos.h"
+	"CatalogoEnLinea.h"
+	"GuardarDatos.h"
+	<string>
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\excepcion.h
+	<iostream>
+	<sstream>
+
+1655322548 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\cargaarchivos.h
+	"Subject.h"
+	"ContenedoraTrajes.h"
+	"ContenedoraVentas.h"
+	"ContenedoraTrajesPersonalizados.h"
+	"TrajeDeportivo.h"
+	"TrajeEjecutivo.h"
+	"TrajeTrabajo.h"
+	<fstream>
+
+1655430704 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\subject.h
+	<list>
+	"Cliente.h"
+	"GuardarDatos.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\cliente.h
+	"Observa.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\observa.h
+	<sstream>
+	<iostream>
+
+1655430704 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\guardardatos.h
+	"TrajeAbstracto.h"
+	"Venta.h"
+	"Persona.h"
+	"Empresa.h"
+	<fstream>
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\venta.h
+	"TrajeAbstracto.h"
+	"Cliente.h"
+	<string>
+	<iostream>
+	<string.h>
+	<vector>
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\persona.h
+	"Cliente.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\empresa.h
+	"Cliente.h"
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\contenedoratrajes.h
+	<list>
+	"TrajeAbstracto.h"
+	"GuardarDatos.h"
+	<sstream>
+
+1655263141 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\contenedoraventas.h
+	<list>
+	"Venta.h"
+	"GuardarDatos.h"
+	<sstream>
+
+1655274190 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\contenedoratrajespersonalizados.h
+	<list>
+	"TrajeAbstracto.h"
+	"GuardarDatos.h"
+	<sstream>
+
+1655430704 c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\include\catalogoenlinea.h
+	"Subject.h"
+	"ContenedoraTrajes.h"
+
+1655321715 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\bota.cpp
+	"Bota.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\camisaabstracta.cpp
+	"CamisaAbstracta.h"
+
+1655321715 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\camiseta.cpp
+	"Camiseta.h"
+
+1655322548 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\cargaarchivos.cpp
+	"CargaArchivos.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\catalogoenlinea.cpp
+	"CatalogoEnLinea.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\cliente.cpp
+	"Cliente.h"
+
+1655321715 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\concuadros.cpp
+	"ConCuadros.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\contenedoratrajes.cpp
+	"ContenedoraTrajes.h"
+
+1655274190 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\contenedoratrajespersonalizados.cpp
+	"ContenedoraTrajesPersonalizados.h"
+
+1655274190 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\contenedoraventas.cpp
+	"ContenedoraVentas.h"
+
+1655321715 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\devestir.cpp
+	"DeVestir.h"
+
+1655321715 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\ejecutivo.cpp
+	"Ejecutivo.h"
+
+1655274190 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\empresa.cpp
+	"Empresa.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\excepcion.cpp
+	"Excepcion.h"
+
+1655321604 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\guardardatos.cpp
+	"GuardarDatos.h"
+
+1655321715 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\jeans.cpp
+	"Jeans.h"
+
+1655321715 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\mangalarga.cpp
+	"MangaLarga.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\pantalonabstracto.cpp
+	"PantalonAbstracto.h"
+
+1655321715 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\pantaloneta.cpp
+	"Pantaloneta.h"
+
+1655274190 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\persona.cpp
+	"Persona.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\subject.cpp
+	"Subject.h"
+
+1655321715 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\tenni.cpp
+	"Tenni.h"
+
+1655789233 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\tiendaropa.cpp
+	"TiendaRopa.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\trajeabstracto.cpp
+	"TrajeAbstracto.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\trajedeportivo.cpp
+	"TrajeDeportivo.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\trajeejecutivo.cpp
+	"TrajeEjecutivo.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\trajetrabajo.cpp
+	"TrajeTrabajo.h"
+
+1655274190 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\venta.cpp
+	"Venta.h"
+
+1655263141 source:c:\users\hachi\desktop\progra ii-proyecto ii\proyecto-ii progra ii\src\zapatoabstracto.cpp
+	"ZapatoAbstracto.h"
+
+1655321715 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\bota.cpp
+	"Bota.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\bota.h
+	"ZapatoAbstracto.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\zapatoabstracto.h
+	<sstream>
+	<iostream>
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\camisaabstracta.cpp
+	"CamisaAbstracta.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\camisaabstracta.h
+	<sstream>
+	<iostream>
+
+1655321715 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\camiseta.cpp
+	"Camiseta.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\camiseta.h
+	"CamisaAbstracta.h"
+
+1655322548 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\cargaarchivos.cpp
+	"CargaArchivos.h"
+
+1655322548 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\cargaarchivos.h
+	"Subject.h"
+	"ContenedoraTrajes.h"
+	"ContenedoraVentas.h"
+	"ContenedoraTrajesPersonalizados.h"
+	"TrajeDeportivo.h"
+	"TrajeEjecutivo.h"
+	"TrajeTrabajo.h"
+	<fstream>
+
+1655430704 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\subject.h
+	<list>
+	"Cliente.h"
+	"GuardarDatos.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\cliente.h
+	"Observa.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\observa.h
+	<sstream>
+	<iostream>
+
+1655430704 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\guardardatos.h
+	"TrajeAbstracto.h"
+	"Venta.h"
+	"Persona.h"
+	"Empresa.h"
+	<fstream>
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\trajeabstracto.h
+	"CamisaAbstracta.h"
+	"PantalonAbstracto.h"
+	"ZapatoAbstracto.h"
+	<sstream>
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\pantalonabstracto.h
+	<sstream>
+	<iostream>
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\venta.h
+	"TrajeAbstracto.h"
+	"Cliente.h"
+	<string>
+	<iostream>
+	<string.h>
+	<vector>
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\persona.h
+	"Cliente.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\empresa.h
+	"Cliente.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\contenedoratrajes.h
+	<list>
+	"TrajeAbstracto.h"
+	"GuardarDatos.h"
+	<sstream>
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\contenedoraventas.h
+	<list>
+	"Venta.h"
+	"GuardarDatos.h"
+	<sstream>
+
+1655274190 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\contenedoratrajespersonalizados.h
+	<list>
+	"TrajeAbstracto.h"
+	"GuardarDatos.h"
+	<sstream>
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\trajedeportivo.h
+	"TrajeAbstracto.h"
+	"Camiseta.h"
+	"Tenni.h"
+	"Pantaloneta.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\tenni.h
+	"ZapatoAbstracto.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\pantaloneta.h
+	"PantalonAbstracto.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\trajeejecutivo.h
+	"TrajeAbstracto.h"
+	"MangaLarga.h"
+	"DeVestir.h"
+	"Ejecutivo.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\mangalarga.h
+	"CamisaAbstracta.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\devestir.h
+	"PantalonAbstracto.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\ejecutivo.h
+	"ZapatoAbstracto.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\trajetrabajo.h
+	"TrajeAbstracto.h"
+	"ConCuadros.h"
+	"Jeans.h"
+	"Bota.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\concuadros.h
+	"CamisaAbstracta.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\jeans.h
+	"PantalonAbstracto.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\catalogoenlinea.cpp
+	"CatalogoEnLinea.h"
+
+1655430704 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\catalogoenlinea.h
+	"Subject.h"
+	"ContenedoraTrajes.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\cliente.cpp
+	"Cliente.h"
+
+1655321715 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\concuadros.cpp
+	"ConCuadros.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\contenedoratrajes.cpp
+	"ContenedoraTrajes.h"
+
+1655274190 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\contenedoratrajespersonalizados.cpp
+	"ContenedoraTrajesPersonalizados.h"
+
+1655274190 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\contenedoraventas.cpp
+	"ContenedoraVentas.h"
+
+1655321715 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\devestir.cpp
+	"DeVestir.h"
+
+1655321715 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\ejecutivo.cpp
+	"Ejecutivo.h"
+
+1655274190 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\empresa.cpp
+	"Empresa.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\excepcion.cpp
+	"Excepcion.h"
+
+1655263141 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\excepcion.h
+	<iostream>
+	<sstream>
+
+1655321604 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\guardardatos.cpp
+	"GuardarDatos.h"
+
+1655321715 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\jeans.cpp
+	"Jeans.h"
+
+1655321715 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\mangalarga.cpp
+	"MangaLarga.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\pantalonabstracto.cpp
+	"PantalonAbstracto.h"
+
+1655321715 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\pantaloneta.cpp
+	"Pantaloneta.h"
+
+1655274190 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\persona.cpp
+	"Persona.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\subject.cpp
+	"Subject.h"
+
+1655321715 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\tenni.cpp
+	"Tenni.h"
+
+1655789233 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\tiendaropa.cpp
+	"TiendaRopa.h"
+
+1655430704 c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\include\tiendaropa.h
+	"Excepcion.h"
+	"CargaArchivos.h"
+	"CatalogoEnLinea.h"
+	"GuardarDatos.h"
+	<string>
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\trajeabstracto.cpp
+	"TrajeAbstracto.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\trajedeportivo.cpp
+	"TrajeDeportivo.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\trajeejecutivo.cpp
+	"TrajeEjecutivo.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\trajetrabajo.cpp
+	"TrajeTrabajo.h"
+
+1655274190 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\venta.cpp
+	"Venta.h"
+
+1655263141 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\src\zapatoabstracto.cpp
+	"ZapatoAbstracto.h"
+
+1655790103 source:c:\users\nicole\desktop\proyecto 2\proyecto-ii progra ii\source.cpp
+	"TrajeEjecutivo.h"
+	"TrajeDeportivo.h"
+	"TrajeTrabajo.h"
+	"TiendaRopa.h"
+	"Venta.h"
+

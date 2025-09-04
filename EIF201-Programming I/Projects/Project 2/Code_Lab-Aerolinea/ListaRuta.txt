@@ -1,0 +1,1 @@
+AMXCA263	Mexico	Canada	2 horas	1	256*ACRSA004	Costa Rica	Salvador	3 horas	1	300*AUSNI653	Estados Unidos	icaragua	 horas	2	250*

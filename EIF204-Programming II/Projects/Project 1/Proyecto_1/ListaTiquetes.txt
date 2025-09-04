@@ -1,0 +1,3 @@
+1234	Puerto Viejo, Limon	HON001 HIA001 COA001
+3214	Volcan Arenal, San Carlos	BUS001
+202026	Rio Celeste, San Carlos	BUS002

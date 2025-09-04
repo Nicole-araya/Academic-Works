@@ -1,0 +1,35 @@
+﻿  NetPro.cpp
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\NetPro.cpp(94,14): warning C4101: 'num': variable local sin referencia
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\NetPro.cpp(100,20): warning C4101: 'a': variable local sin referencia
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\Graph.h(44,9): warning C4244: 'inicializando': conversión de '_Ty2' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\Graph.h(36): message : al compilar la función del miembro clase plantilla "void Graph<char,double>::shortestPath(int)"
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\NetPro.cpp(68): message : Vea la referencia a la creación de una instancia de la función plantilla "void Graph<char,double>::shortestPath(int)" que se está compilando
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\NetPro.cpp(6): message : Vea la referencia a la creación de una instancia de clase plantilla "Graph<char,double>" que se está compilando
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(256,16): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty1'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=char
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\Graph.h(51): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<T,K>::pair<double,int,0>(std::pair<double,int> &&) noexcept" que se está compilando
+          with
+          [
+              T=char,
+              K=double
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\Graph.h(51): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<T,K>::pair<double,int,0>(std::pair<double,int> &&) noexcept" que se está compilando
+          with
+          [
+              T=char,
+              K=double
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\Graph.h(36): message : al compilar la función del miembro clase plantilla "void Graph<char,double>::shortestPath(int)"
+C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\Examen_II\NetPro.cpp(68): message : Vea la referencia a la creación de una instancia de la función plantilla "void Graph<char,double>::shortestPath(int)" que se está compilando
+  Examen_II.vcxproj -> C:\Users\Nicole\Desktop\Estructuras Datos\Examen_II\Examen_II\x64\Debug\Examen_II.exe

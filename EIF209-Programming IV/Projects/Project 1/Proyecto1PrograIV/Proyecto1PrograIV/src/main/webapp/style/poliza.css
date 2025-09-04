@@ -1,0 +1,14 @@
+
+table {
+    border-radius: 10px;
+    overflow: hidden;
+    align-content: center;
+    vertical-align: central;
+    margin-left: 41%;
+    margin-bottom: 30px;
+}
+
+th, td {
+    padding: 10px;
+    background: #595354;
+}

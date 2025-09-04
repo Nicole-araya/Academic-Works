@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1653240934 source:c:\users\escinf\desktop\examenii\main.cpp
+	<iostream>
+	"Region.h"
+	"Zona.h"
+	"Coordinador.h"
+	"Grupo.h"
+	"Servicio.h"
+
+1653241779 source:c:\users\escinf\desktop\examenii\src\servicio.cpp
+	"Servicio.h"
+
+1653239122 c:\users\escinf\desktop\examenii\include\servicio.h
+	<sstream>
+	<iostream>
+	<string>
+
+1653241188 source:c:\users\escinf\desktop\examenii\src\coordinador.cpp
+	"Coordinador.h"
+
+1653241188 c:\users\escinf\desktop\examenii\include\coordinador.h
+	<iostream>
+	<sstream>
+
+1653236137 source:c:\users\escinf\desktop\examenii\src\region.cpp
+	"Region.h"
+
+1653234174 c:\users\escinf\desktop\examenii\include\region.h
+	<sstream>
+	<iostream>
+
+1653239272 source:c:\users\escinf\desktop\examenii\src\grupo.cpp
+	"Grupo.h"
+
+1653238018 c:\users\escinf\desktop\examenii\include\grupo.h
+	"Region.h"
+	"Servicio.h"
+
+1653241188 source:c:\users\escinf\desktop\examenii\src\zona.cpp
+	"Zona.h"
+
+1653235236 c:\users\escinf\desktop\examenii\include\zona.h
+	<vector>
+	"Region.h"
+	"Coordinador.h"
+
+1653241188 source:c:\users\nicole\desktop\proga ii\examenes\examenii\src\coordinador.cpp
+	"Coordinador.h"
+
+1653241188 c:\users\nicole\desktop\proga ii\examenes\examenii\include\coordinador.h
+	<iostream>
+	<sstream>
+
+1653239272 source:c:\users\nicole\desktop\proga ii\examenes\examenii\src\grupo.cpp
+	"Grupo.h"
+
+1653238018 c:\users\nicole\desktop\proga ii\examenes\examenii\include\grupo.h
+	"Region.h"
+	"Servicio.h"
+
+1653234174 c:\users\nicole\desktop\proga ii\examenes\examenii\include\region.h
+	<sstream>
+	<iostream>
+
+1653239122 c:\users\nicole\desktop\proga ii\examenes\examenii\include\servicio.h
+	<sstream>
+	<iostream>
+	<string>
+
+1653236137 source:c:\users\nicole\desktop\proga ii\examenes\examenii\src\region.cpp
+	"Region.h"
+
+1653241779 source:c:\users\nicole\desktop\proga ii\examenes\examenii\src\servicio.cpp
+	"Servicio.h"
+
+1653241188 source:c:\users\nicole\desktop\proga ii\examenes\examenii\src\zona.cpp
+	"Zona.h"
+
+1653235236 c:\users\nicole\desktop\proga ii\examenes\examenii\include\zona.h
+	<vector>
+	"Region.h"
+	"Coordinador.h"
+
+1653242836 source:c:\users\nicole\desktop\proga ii\examenes\examenii\main.cpp
+	<iostream>
+	"Region.h"
+	"Zona.h"
+	"Coordinador.h"
+	"Grupo.h"
+	"Servicio.h"
+

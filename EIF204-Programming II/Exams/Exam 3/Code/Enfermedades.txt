@@ -1,0 +1,9 @@
+Down syndrome,CGTTTA
+FragileX,GAGCATCT
+Klinefelter,TCTATG
+Turner,TCATG
+Arthritis,TATTGC
+Autism spectrum disorder,AGTCTT
+Diabetes,CTAGTT
+Trisomy 18,ATTACGCG
+Trisomy 13,GTACATCG

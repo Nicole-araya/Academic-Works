@@ -1,0 +1,26 @@
+
+.bodyIndex{
+    background-image: url("/Proyecto1PrograIV/imagenes/fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.seguros-infinitos{
+    margin-left: 50px;
+    position: absolute;
+    top: 15%;
+    font-size: 116px;
+    font-family: 'Phudu', cursive;
+}
+
+.seguros{
+    color: #f0527b;
+}
+
+.infinitos{
+    color: #ffffff;
+    display: block;
+    padding-left: 70px;
+}
+
+

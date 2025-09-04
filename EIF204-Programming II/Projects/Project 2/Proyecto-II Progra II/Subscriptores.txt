@@ -1,0 +1,5 @@
+P	Italia	111	Esteban	est@gmail.com	200	Italia	Milan
+P	Inglaterra	222	Nicole	nico@gmail.com	200	Inglaterra	Londres
+E	0	333	Gatos S.A.	peligroso@gmail.com	400	Italia	Milan
+P	Argentina	444	Marco	marco@gmail.com	200	Argentina	Buenos Aires
+E	0	555	Rosas	rosas@hotmail.com	400	Inglaterra	Londres

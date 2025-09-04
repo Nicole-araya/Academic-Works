@@ -1,0 +1,29 @@
+
+button{
+    background: #595354;
+    border-color: #595354;
+    color: #F0527B;
+}
+
+.fa-circle-plus, .fa-magnifying-glass{
+    color: white;
+    font-size: 26px;
+}
+
+.fa-circle-plus:hover, .fa-magnifying-glass:hover{
+    color: #F0527B;
+}
+
+table {
+    border-radius: 10px;
+    overflow: hidden;
+    align-content: center;
+    vertical-align: central;
+    margin-left: 31%;
+    margin-bottom: 30px;
+}
+
+th, td {
+    padding: 10px;
+    background: #595354;
+}

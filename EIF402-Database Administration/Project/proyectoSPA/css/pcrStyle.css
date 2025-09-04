@@ -1,0 +1,82 @@
+.red-bar,
+.green-bar,
+.yellow-bar {
+  color: #f4f4f4;
+  padding: 1.2vh 0;
+  margin: 0;
+  width: 100%;
+}
+.red-bar {
+  background-color: red;
+}
+
+.yellow-bar {
+  background-color: goldenrod;
+}
+
+.green-bar {
+  background-color: green;
+}
+
+.semaphore {
+  position: fixed;
+  border: none;
+  top: 1.2vh;
+  right: 0;
+  padding: 1vh;
+  border-radius: 0.5vh;
+  background-color: #202126;
+  transition: padding 0.2s Linear;
+}
+
+.fa-traffic-light {
+  color: white;
+  font-size: 12vh;
+}
+
+.semaphore:hover {
+  padding: 2vh;
+  background-color: #202126 !important;
+}
+
+form > input {
+  background-color: #2b3fff !important;
+}
+
+form > input:hover {
+  background-color: #2939c9 !important;
+}
+
+#semaphore-popUp {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  background-color: white;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  z-index: 2;
+  width: 42vh;
+  height: 70vh;
+}
+#semaphore-popUp img {
+  width: 42vh;
+  height: 47vh;
+}
+
+.red-light,
+.green-light,
+.yellow-light {
+  font: 4vh monospace, "Lucida Console", bold;
+  text-align: center;
+}
+
+.red-light {
+  color: red;
+}
+.yellow-light {
+  color: goldenrod;
+}
+.green-light {
+  color: green;
+}

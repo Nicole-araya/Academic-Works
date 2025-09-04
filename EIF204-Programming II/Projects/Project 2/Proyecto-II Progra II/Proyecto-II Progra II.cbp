@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto-II Progra II" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto-II Progra II" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto-II Progra II" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Source.cpp" />
+		<Unit filename="include/Bota.h" />
+		<Unit filename="include/CamisaAbstracta.h" />
+		<Unit filename="include/Camiseta.h" />
+		<Unit filename="include/CargaArchivos.h" />
+		<Unit filename="include/CatalogoEnLinea.h" />
+		<Unit filename="include/Cliente.h" />
+		<Unit filename="include/ConCuadros.h" />
+		<Unit filename="include/ContenedoraTrajes.h" />
+		<Unit filename="include/ContenedoraTrajesPersonalizados.h" />
+		<Unit filename="include/ContenedoraVentas.h" />
+		<Unit filename="include/DeVestir.h" />
+		<Unit filename="include/Ejecutivo.h" />
+		<Unit filename="include/Empresa.h" />
+		<Unit filename="include/Excepcion.h" />
+		<Unit filename="include/GuardarDatos.h" />
+		<Unit filename="include/Jeans.h" />
+		<Unit filename="include/MangaLarga.h" />
+		<Unit filename="include/Observa.h" />
+		<Unit filename="include/PantalonAbstracto.h" />
+		<Unit filename="include/Pantaloneta.h" />
+		<Unit filename="include/Persona.h" />
+		<Unit filename="include/Subject.h" />
+		<Unit filename="include/Tenni.h" />
+		<Unit filename="include/TiendaRopa.h" />
+		<Unit filename="include/TrajeAbstracto.h" />
+		<Unit filename="include/TrajeDeportivo.h" />
+		<Unit filename="include/TrajeEjecutivo.h" />
+		<Unit filename="include/TrajeTrabajo.h" />
+		<Unit filename="include/Venta.h" />
+		<Unit filename="include/ZapatoAbstracto.h" />
+		<Unit filename="src/Bota.cpp" />
+		<Unit filename="src/CamisaAbstracta.cpp" />
+		<Unit filename="src/Camiseta.cpp" />
+		<Unit filename="src/CargaArchivos.cpp" />
+		<Unit filename="src/CatalogoEnLinea.cpp" />
+		<Unit filename="src/Cliente.cpp" />
+		<Unit filename="src/ConCuadros.cpp" />
+		<Unit filename="src/ContenedoraTrajes.cpp" />
+		<Unit filename="src/ContenedoraTrajesPersonalizados.cpp" />
+		<Unit filename="src/ContenedoraVentas.cpp" />
+		<Unit filename="src/DeVestir.cpp" />
+		<Unit filename="src/Ejecutivo.cpp" />
+		<Unit filename="src/Empresa.cpp" />
+		<Unit filename="src/Excepcion.cpp" />
+		<Unit filename="src/GuardarDatos.cpp" />
+		<Unit filename="src/Jeans.cpp" />
+		<Unit filename="src/MangaLarga.cpp" />
+		<Unit filename="src/PantalonAbstracto.cpp" />
+		<Unit filename="src/Pantaloneta.cpp" />
+		<Unit filename="src/Persona.cpp" />
+		<Unit filename="src/Subject.cpp" />
+		<Unit filename="src/Tenni.cpp" />
+		<Unit filename="src/TiendaRopa.cpp" />
+		<Unit filename="src/TrajeAbstracto.cpp" />
+		<Unit filename="src/TrajeDeportivo.cpp" />
+		<Unit filename="src/TrajeEjecutivo.cpp" />
+		<Unit filename="src/TrajeTrabajo.cpp" />
+		<Unit filename="src/Venta.cpp" />
+		<Unit filename="src/ZapatoAbstracto.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

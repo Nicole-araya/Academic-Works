@@ -1,0 +1,20 @@
+
+.bodyAcerca>img{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 1150px;
+    display: block;
+}
+
+.bodyAcerca>div{
+    color:white;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.bodyAcerca>div>div{
+    display:inline;
+    border: 2px #F0527B solid;
+    padding: 8px;
+}

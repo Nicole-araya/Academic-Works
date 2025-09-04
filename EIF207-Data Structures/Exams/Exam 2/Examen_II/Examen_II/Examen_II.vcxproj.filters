@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Generar combinacion">
+      <UniqueIdentifier>{0aea99a7-a912-47e1-9e07-3870821fa710}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Dijkstra">
+      <UniqueIdentifier>{7e131451-c28d-4521-9d8a-3c4505ac7c1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Generar combinacion">
+      <UniqueIdentifier>{5abc56af-c386-4889-9e11-72aff703be82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Kruskal">
+      <UniqueIdentifier>{fa2630df-ad77-4867-98ce-57ba1ca69dee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Kruskal">
+      <UniqueIdentifier>{9f41ebf8-9e1c-4d7c-bf23-ab77ea59d0e4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Archivo.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Lista.h">
+      <Filter>Archivos de encabezado\Generar combinacion</Filter>
+    </ClInclude>
+    <ClInclude Include="Nodo.h">
+      <Filter>Archivos de encabezado\Generar combinacion</Filter>
+    </ClInclude>
+    <ClInclude Include="Ruta.h">
+      <Filter>Archivos de encabezado\Generar combinacion</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Archivos de encabezado\Dijkstra</Filter>
+    </ClInclude>
+    <ClInclude Include="DisjointSets.h">
+      <Filter>Archivos de encabezado\Kruskal</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphK.h">
+      <Filter>Archivos de encabezado\Kruskal</Filter>
+    </ClInclude>
+    <ClInclude Include="NetPro.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Excepcion.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Archivo.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Ruta.cpp">
+      <Filter>Archivos de origen\Generar combinacion</Filter>
+    </ClCompile>
+    <ClCompile Include="NetPro.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Excepcion.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="DisjointSets.cpp">
+      <Filter>Archivos de origen\Kruskal</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

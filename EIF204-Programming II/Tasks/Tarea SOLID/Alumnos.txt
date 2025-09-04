@@ -1,0 +1,7 @@
+
+IDE: Visual Studio
+
+Alumnos:
+
+Esteban Mojica Gonzalez
+Nicole Araya Ballestero

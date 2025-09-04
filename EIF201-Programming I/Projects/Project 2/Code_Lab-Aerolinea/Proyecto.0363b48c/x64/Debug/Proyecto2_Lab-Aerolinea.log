@@ -1,0 +1,28 @@
+﻿  Aerolinea.cpp
+  ArchivosAerolinea.cpp
+  Avion.cpp
+  ListaAvion.cpp
+  ListaPasajero.cpp
+  ListaPiloto.cpp
+  ListaRuta.cpp
+  ListaSobrecargo.cpp
+  ListaVuelo.cpp
+  main.cpp
+  NodoAvion.cpp
+  NodoPasajero.cpp
+  NodoPiloto.cpp
+  NodoRuta.cpp
+  NodoSobrecargo.cpp
+  NodoVuelo.cpp
+  Pasajero.cpp
+  Persona.cpp
+  Piloto.cpp
+  Ruta.cpp
+  Generando código...
+H:\UNA\2 año\II Ciclo\EIF201\PROYECTO (26,1): warning C4715: 'ArchivosAerolinea::verificarUsuarioAdmi': no todas las rutas de acceso de control devuelven un valor
+  Compilando...
+  Sobrecargo.cpp
+  Tripulante.cpp
+  Vuelo.cpp
+  Generando código...
+  Proyecto2_Lab-Aerolinea.vcxproj -> H:\UNA\2 año\II Ciclo\EIF201\PROYECTO #2\4 0250 0623\Proyecto2_Lab-Aerolinea\x64\Debug\Proyecto2_Lab-Aerolinea.exe

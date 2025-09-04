@@ -1,0 +1,63 @@
+
+button{
+    margin: 5px;
+    border: none;
+    background-color: #F0527B;
+    color: white;
+    padding: 5px;
+    border: 1px solid white;
+    font-family: 'EB Garamond', serif;
+    font-size: 17px;
+    border-radius: 8%;
+}
+
+button:hover{
+    background-color: white;
+    color: #F0527B;
+    border: 1px solid #F0527B;
+}
+
+input{
+    margin: 5px;
+    border: none;
+    background-color: #F0527B;
+    color: white;
+    padding: 5px;
+    border: 1px solid white;
+    font-family: 'EB Garamond', serif;
+    font-size: 17px;
+}
+
+input[type=submit]{
+    border-radius: 8%;
+}
+
+input:hover{
+    background-color: white;
+    color: #F0527B;
+    border: 1px solid #F0527B;
+}
+
+select{
+    border: 1px solid white;
+    background-color: #F0527B;
+    color: white;
+    padding: 5px;
+    font-family: 'EB Garamond', serif;
+    font-size: 17px;
+}
+
+select:hover{
+    background-color: white;
+    color: #F0527B;
+}
+
+option:disabled{
+    background-color: #F0527B;
+    color: #1C1C1C;
+}
+
+input:disabled{
+    background-color: #FF7484;
+    color: #1C1C1C;
+}

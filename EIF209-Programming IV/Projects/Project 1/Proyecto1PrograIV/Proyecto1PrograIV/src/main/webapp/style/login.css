@@ -1,0 +1,21 @@
+
+header{
+    border-bottom: 2px #F0527B solid;
+}
+
+footer{
+    border-top: 2px #F0527B solid;
+}
+
+body>div{
+    text-align: center;
+    vertical-align: central;
+    font-size: 19px;
+    color: white;
+}
+
+.fa-id-badge{
+    color: white;
+    font-size: 150px;
+    margin-bottom: 14px;
+}

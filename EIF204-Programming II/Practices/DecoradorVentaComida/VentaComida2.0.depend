@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1650666082 source:c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\src\factura.cpp
+	"Factura.h"
+
+1650664869 c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\include\factura.h
+	"VentaComida.h"
+
+1650666236 c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\include\ventacomida.h
+	<iostream>
+	<sstream>
+
+1650666236 source:c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\src\ventacomida.cpp
+	"VentaComida.h"
+
+1650667255 source:c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\main.cpp
+	<iostream>
+	"VentaComida.h"
+	"Factura.h"
+	"Decorador.h"
+	"Hamburguesa.h"
+	"Bebida.h"
+	"PapasFritas.h"
+	"Tacos.h"
+
+1650665014 source:c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\src\decorador.cpp
+	"Decorador.h"
+
+1650665014 c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\include\decorador.h
+	"VentaComida.h"
+
+1650667182 source:c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\src\bebida.cpp
+	"Bebida.h"
+
+1650665269 c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\include\bebida.h
+	"Decorador.h"
+
+1650667182 source:c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\src\hamburguesa.cpp
+	"Hamburguesa.h"
+
+1650665369 c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\include\hamburguesa.h
+	"Decorador.h"
+
+1650667182 source:c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\src\papasfritas.cpp
+	"PapasFritas.h"
+
+1650667081 c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\include\papasfritas.h
+	"Decorador.h"
+
+1650667182 source:c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\src\tacos.cpp
+	"Tacos.h"
+
+1650667081 c:\users\nicole\desktop\proga ii\practicas\ventacomida2.0\include\tacos.h
+	"Decorador.h"
+
+1650667182 source:c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\src\bebida.cpp
+	"Bebida.h"
+
+1650665269 c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\include\bebida.h
+	"Decorador.h"
+
+1650665014 c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\include\decorador.h
+	"VentaComida.h"
+
+1650666236 c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\include\ventacomida.h
+	<iostream>
+	<sstream>
+
+1650665014 source:c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\src\decorador.cpp
+	"Decorador.h"
+
+1650666082 source:c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\src\factura.cpp
+	"Factura.h"
+
+1650664869 c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\include\factura.h
+	"VentaComida.h"
+
+1650667182 source:c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\src\hamburguesa.cpp
+	"Hamburguesa.h"
+
+1650665369 c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\include\hamburguesa.h
+	"Decorador.h"
+
+1650667284 source:c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\src\papasfritas.cpp
+	"PapasFritas.h"
+
+1650667081 c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\include\papasfritas.h
+	"Decorador.h"
+
+1650667284 source:c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\src\tacos.cpp
+	"Tacos.h"
+
+1650667081 c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\include\tacos.h
+	"Decorador.h"
+
+1650666236 source:c:\users\nicole\desktop\proga ii\practicas\decoradorventacomida_nicolearayaballestero\src\ventacomida.cpp
+	"VentaComida.h"
+
+1650667477 source:c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\main.cpp
+	<iostream>
+	"VentaComida.h"
+	"Factura.h"
+	"Decorador.h"
+	"Hamburguesa.h"
+	"Bebida.h"
+	"PapasFritas.h"
+	"Tacos.h"
+
+1650666236 c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\include\ventacomida.h
+	<iostream>
+	<sstream>
+
+1650664869 c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\include\factura.h
+	"VentaComida.h"
+
+1650665014 c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\include\decorador.h
+	"VentaComida.h"
+
+1650665369 c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\include\hamburguesa.h
+	"Decorador.h"
+
+1650665269 c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\include\bebida.h
+	"Decorador.h"
+
+1650667081 c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\include\papasfritas.h
+	"Decorador.h"
+
+1650667081 c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\include\tacos.h
+	"Decorador.h"
+
+1650667182 source:c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\src\bebida.cpp
+	"Bebida.h"
+
+1650665014 source:c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\src\decorador.cpp
+	"Decorador.h"
+
+1650666082 source:c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\src\factura.cpp
+	"Factura.h"
+
+1650667182 source:c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\src\hamburguesa.cpp
+	"Hamburguesa.h"
+
+1650667284 source:c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\src\papasfritas.cpp
+	"PapasFritas.h"
+
+1650667284 source:c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\src\tacos.cpp
+	"Tacos.h"
+
+1650666236 source:c:\users\nicole\desktop\proga ii\practicas\ii parcial practicas\decoradorventacomida_nicolearayaballestero\src\ventacomida.cpp
+	"VentaComida.h"
+

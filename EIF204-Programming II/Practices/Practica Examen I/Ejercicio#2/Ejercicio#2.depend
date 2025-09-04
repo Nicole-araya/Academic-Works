@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#2\main.cpp
+	<iostream>
+
+1649436350 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#2\src\vueltos.cpp
+	"Vueltos.h"
+
+1649436350 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#2\include\vueltos.h
+
+1649551419 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#2\main.cpp
+	<iostream>
+	"Maquina.h"
+
+1649461708 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#2\src\dinero.cpp
+	"Dinero.h"
+
+1649461652 c:\users\nicole\desktop\proga ii\practica examen\ejercicio#2\include\dinero.h
+	<iostream>
+	<sstream>
+
+1649550422 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#2\src\recipiente.cpp
+	"Recipiente.h"
+
+1649482741 c:\users\nicole\desktop\proga ii\practica examen\ejercicio#2\include\recipiente.h
+	"Dinero.h"
+
+1649482741 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#2\src\producto.cpp
+	"Producto.h"
+
+1649482741 c:\users\nicole\desktop\proga ii\practica examen\ejercicio#2\include\producto.h
+	<iostream>
+	<sstream>
+
+1649551320 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#2\src\maquina.cpp
+	"Maquina.h"
+
+1649551320 c:\users\nicole\desktop\proga ii\practica examen\ejercicio#2\include\maquina.h
+	"Recipiente.h"
+	"Producto.h"
+

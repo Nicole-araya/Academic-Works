@@ -1,0 +1,8 @@
+# Forzar CRLF en Code::Blocks
+*.cbp     text eol=crlf
+*.layout  text eol=crlf
+
+# Usar LF en código y documentación
+*.java    text eol=lf
+*.xml     text eol=lf
+*.md      text eol=lf

@@ -1,0 +1,8 @@
+﻿  Controlador.cpp
+D:\Nicole\UNA\Estructuras Datos\Examen_I\Examen_I_PILA\Examen I\Controlador.cpp(13,30): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Nicole\UNA\Estructuras Datos\Examen_I\Examen_I_PILA\Examen I\Controlador.cpp(170,14): warning C4101: 'num': variable local sin referencia
+D:\Nicole\UNA\Estructuras Datos\Examen_I\Examen_I_PILA\Examen I\Controlador.cpp(244,14): warning C4101: 'num': variable local sin referencia
+  Examen I.cpp
+  Excepcion.cpp
+  Generando código...
+  Examen I.vcxproj -> D:\Nicole\UNA\Estructuras Datos\Examen_I\Examen_I_PILA\x64\Debug\Examen I.exe

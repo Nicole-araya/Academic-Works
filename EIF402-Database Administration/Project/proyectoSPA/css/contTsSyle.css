@@ -1,0 +1,27 @@
+#container-grid2 {
+  display: grid;
+  height: 60vh;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 1fr;
+  column-gap: 2vh;
+}
+
+#grafica2 {
+  grid-row: 1 / span 1;
+  grid-column: 1 / span 1;
+}
+
+
+@media (max-width: 1120px) {
+  #container-grid2 {
+    display: block;
+    height: 40%;
+  }
+
+  #grafica2,
+  #container-grid2 > #detalles {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+

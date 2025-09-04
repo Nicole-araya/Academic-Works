@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1652828353 source:c:\users\nicole\desktop\proga ii\practica examen ii\ejerciciofifa\src\equipo.cpp
+	"Equipo.h"
+
+1652828205 c:\users\nicole\desktop\proga ii\practica examen ii\ejerciciofifa\include\equipo.h
+	"FIFA.h"
+
+1652828379 c:\users\nicole\desktop\proga ii\practica examen ii\ejerciciofifa\include\fifa.h
+	<iostream>
+	<sstream>
+
+1652838149 source:c:\users\nicole\desktop\proga ii\practica examen ii\ejerciciofifa\src\federaciones.cpp
+	"Federaciones.h"
+
+1652836327 c:\users\nicole\desktop\proga ii\practica examen ii\ejerciciofifa\include\federaciones.h
+	"FIFA.h"
+	<vector>
+
+1652828141 source:c:\users\nicole\desktop\proga ii\practica examen ii\ejerciciofifa\src\fifa.cpp
+	"FIFA.h"
+
+1652841559 source:c:\users\nicole\desktop\proga ii\practica examen ii\ejerciciofifa\main.cpp
+	<iostream>
+	"Federaciones.h"
+	"Equipo.h"
+	<vector>
+

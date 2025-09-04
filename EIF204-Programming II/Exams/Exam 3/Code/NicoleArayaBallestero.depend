@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1656180418 source:c:\users\escinf\desktop\nicolearayaballestero\src\aplicacionadn.cpp
+	"AplicacionADN.h"
+
+1656176026 c:\users\escinf\desktop\nicolearayaballestero\include\aplicacionadn.h
+	<fstream>
+	"ContEnfermedades.h"
+	"ContPacientes.h"
+	"IReporte.h"
+
+1656175968 c:\users\escinf\desktop\nicolearayaballestero\include\contenfermedades.h
+	"Enfermedad.h"
+
+1656178500 c:\users\escinf\desktop\nicolearayaballestero\include\enfermedad.h
+	<sstream>
+	<iostream>
+	<fstream>
+
+1656175968 c:\users\escinf\desktop\nicolearayaballestero\include\contpacientes.h
+	"Paciente.h"
+
+1656179482 c:\users\escinf\desktop\nicolearayaballestero\include\paciente.h
+	<iostream>
+	<sstream>
+	<fstream>
+
+1656175891 c:\users\escinf\desktop\nicolearayaballestero\include\ireporte.h
+	"Paciente.h"
+	"ContEnfermedades.h"
+
+1656175968 source:c:\users\escinf\desktop\nicolearayaballestero\src\conenfermedades.cpp
+	"ContEnfermedades.h"
+
+1656175968 source:c:\users\escinf\desktop\nicolearayaballestero\src\contpacientes.cpp
+	"ContPacientes.h"
+
+1656178500 source:c:\users\escinf\desktop\nicolearayaballestero\src\enfermedad.cpp
+	"Enfermedad.h"
+
+1656179482 source:c:\users\escinf\desktop\nicolearayaballestero\src\paciente.cpp
+	"Paciente.h"
+
+1656181961 source:c:\users\escinf\desktop\nicolearayaballestero\principal.cpp
+	<iostream>
+	<sstream>
+	<windows.h>
+	"InterfazUsuario.h"
+	"RepAnalisis1.h"
+	"RepAnalisis2.h"
+	"RepAnalisis3.h"
+
+1656181022 c:\users\escinf\desktop\nicolearayaballestero\include\interfazusuario.h
+	"AplicacionADN.h"
+	<iostream>
+
+1656175858 c:\users\escinf\desktop\nicolearayaballestero\include\repanalisis1.h
+	"IReporte.h"
+	"InterfazUsuario.h"
+
+1656183861 c:\users\escinf\desktop\nicolearayaballestero\include\repanalisis2.h
+	"IReporte.h"
+	"InterfazUsuario.h"
+
+1656175858 c:\users\escinf\desktop\nicolearayaballestero\include\repanalisis3.h
+	"IReporte.h"
+	"InterfazUsuario.h"
+

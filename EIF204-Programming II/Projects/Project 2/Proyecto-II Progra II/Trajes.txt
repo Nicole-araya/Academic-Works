@@ -1,0 +1,5 @@
+D00	685	l	Roja	200	1	Negra	150	1	Negro	335	1
+E00	915	m	Gris	315	1	Negro	250	0	Negro	350	0
+EP0	760	s	Blanco	175	1	Negro	260	1	Negro	325	1
+DP1	325	s	Blanco	75	0	Negro	50	0	Blanca	200	1
+EP2	565	n	Azul	165	1	Gris	200	1	Negros y blancos	200	1

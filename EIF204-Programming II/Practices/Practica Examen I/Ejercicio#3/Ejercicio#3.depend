@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\main.cpp
+	<iostream>
+
+1649392109 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\src\colegios.cpp
+	"Colegios.h"
+
+1649392097 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\include\colegios.h
+	"OrganoEducativo.h"
+
+1649391743 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\include\organoeducativo.h
+	<iostream>
+	<sstream>
+
+1649390830 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\src\organoeducativo.cpp
+	"OrganoEducativo.h"
+
+1649391895 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\src\preescolares.cpp
+	"Preescolares.h"
+
+1649391895 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\include\preescolares.h
+	"OrganoEducativo.h"
+
+1649392112 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\src\escuela.cpp
+	"Escuela.h"
+
+1649392097 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\include\escuela.h
+	"OrganoEducativo.h"
+
+1649392102 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\src\instituto.cpp
+	"Instituto.h"
+
+1649392097 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\ejercicio#3\include\instituto.h
+	"OrganoEducativo.h"
+
+1649392436 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\main.cpp
+	<iostream>
+	"OrganoEducativo.h"
+	"Preescolares.h"
+	"Escuela.h"
+	"Colegios.h"
+	"Instituto.h"
+
+1649552436 c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\include\organoeducativo.h
+	<iostream>
+	<sstream>
+	<string>
+
+1649391895 c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\include\preescolares.h
+	"OrganoEducativo.h"
+
+1649392097 c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\include\escuela.h
+	"OrganoEducativo.h"
+
+1649392097 c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\include\colegios.h
+	"OrganoEducativo.h"
+
+1649392097 c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\include\instituto.h
+	"OrganoEducativo.h"
+
+1649392109 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\src\colegios.cpp
+	"Colegios.h"
+
+1649392112 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\src\escuela.cpp
+	"Escuela.h"
+
+1649392102 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\src\instituto.cpp
+	"Instituto.h"
+
+1649390830 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\src\organoeducativo.cpp
+	"OrganoEducativo.h"
+
+1649391895 source:c:\users\nicole\desktop\proga ii\practica examen\ejercicio#3\src\preescolares.cpp
+	"Preescolares.h"
+

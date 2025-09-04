@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1649132576 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\main.cpp
+	<iostream>
+	"AdmEmpleado.h"
+	"Empleado.h"
+	"Vendedor.h"
+	"Gerente.h"
+	"Cajero.h"
+
+1649124132 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\src\cajero.cpp
+	"Cajero.h"
+
+1649123863 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\src\gerente.cpp
+	"Gerente.h"
+
+1649124071 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\include\gerente.h
+	"Empleado.h"
+	"Salario.h"
+
+1649122881 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\src\empleado.cpp
+	"Empleado.h"
+
+1649131288 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\include\empleado.h
+	<iostream>
+	<sstream>
+
+1649130498 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\src\vendedor.cpp
+	"Vendedor.h"
+
+1649130573 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\include\vendedor.h
+	"Empleado.h"
+	"Salario.h"
+
+1649122744 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\src\salario.cpp
+	"Salario.h"
+
+1649129724 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\include\salario.h
+	<iostream>
+	<sstream>
+
+1649124071 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\include\cajero.h
+	"Empleado.h"
+	"Salario.h"
+
+1649131130 source:c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\src\admempleado.cpp
+	"AdmEmpleado.h"
+
+1649130806 c:\users\nicole\desktop\proga ii\tarea\tarea archivos\up-down casting\include\admempleado.h
+	"Empleado.h"
+	"Vendedor.h"
+	"Gerente.h"
+	"Cajero.h"
+
+1649131130 source:c:\users\nicole\desktop\proga ii\tarea\up-down casting\src\admempleado.cpp
+	"AdmEmpleado.h"
+
+1649130806 c:\users\nicole\desktop\proga ii\tarea\up-down casting\include\admempleado.h
+	"Empleado.h"
+	"Vendedor.h"
+	"Gerente.h"
+	"Cajero.h"
+
+1649131288 c:\users\nicole\desktop\proga ii\tarea\up-down casting\include\empleado.h
+	<iostream>
+	<sstream>
+
+1649130573 c:\users\nicole\desktop\proga ii\tarea\up-down casting\include\vendedor.h
+	"Empleado.h"
+	"Salario.h"
+
+1649129724 c:\users\nicole\desktop\proga ii\tarea\up-down casting\include\salario.h
+	<iostream>
+	<sstream>
+
+1649124071 c:\users\nicole\desktop\proga ii\tarea\up-down casting\include\gerente.h
+	"Empleado.h"
+	"Salario.h"
+
+1649124071 c:\users\nicole\desktop\proga ii\tarea\up-down casting\include\cajero.h
+	"Empleado.h"
+	"Salario.h"
+
+1649124132 source:c:\users\nicole\desktop\proga ii\tarea\up-down casting\src\cajero.cpp
+	"Cajero.h"
+
+1649122881 source:c:\users\nicole\desktop\proga ii\tarea\up-down casting\src\empleado.cpp
+	"Empleado.h"
+
+1649123863 source:c:\users\nicole\desktop\proga ii\tarea\up-down casting\src\gerente.cpp
+	"Gerente.h"
+
+1649122744 source:c:\users\nicole\desktop\proga ii\tarea\up-down casting\src\salario.cpp
+	"Salario.h"
+
+1649132618 source:c:\users\nicole\desktop\proga ii\tarea\up-down casting\src\vendedor.cpp
+	"Vendedor.h"
+

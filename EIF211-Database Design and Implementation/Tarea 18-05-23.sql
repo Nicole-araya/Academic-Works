@@ -1,0 +1,103 @@
+
+ALTER SESSION SET "_ORACLE_SCRIPT" = TRUE;
+create user tarea identified by tarea;
+grant connect to tarea;
+grant resource to tarea;
+--grant insert on OrdenProduccion to tarea;
+grant execute on P0037 to tarea;
+
+
+create table Inventario(codigo INT, producto INT, bodega INT, cantidad INT, cantMinimo INT, reorder INT, CONSTRAINT PkCodigo PRIMARY KEY (producto), CONSTRAINT FkIProd FOREIGN KEY (producto)REFERENCES PRODUCTO(codigo),
+CONSTRAINT FkIBodega FOREIGN KEY (bodega) REFERENCES BODEGA(codigo)) 
+ 
+create table Movimiento(producto INT, bodega INT, cantidad INT, fecha DATE, tipoMov INT, CONSTRAINT FkMProd FOREIGN KEY (producto)REFERENCES PRODUCTO(codigo),
+CONSTRAINT FkMBodega FOREIGN KEY (bodega) REFERENCES BODEGA(codigo))
+ 
+create table Producto(codigo INT, CONSTRAINT PkProd PRIMARY KEY (codigo));
+create table Bodega(codigo INT,CONSTRAINT PkBodega PRIMARY KEY (codigo));
+ 
+create table OrdenProduccion(usuario varchar(30),fecha DATE, producto INT, cantidad INT, CONSTRAINT FkOProd FOREIGN KEY (producto)REFERENCES PRODUCTO(codigo))
+
+
+
+CREATE OR REPLACE PROCEDURE P0037(F1 IN DATE, F2 IN DATE) IS
+TM INTEGER;
+TMA INTEGER;
+C1 SYS_REFCURSOR;
+
+WBODEGA INTEGER;
+WPRODUCTO INTEGER;
+WCANTIDAD INTEGER;
+WTIPOMOV INTEGER;
+
+BEGIN
+
+OPEN C1 FOR 'SELECT * FROM MOVIMIENTOS WHERE MOVIMIENTO.FECHA >= :F1 AND MOVIMIENTO.FECHA <= :F2' USING F1, F2;
+
+TM :=0; TMA :=0;
+
+FETCH C1 INTO WBODEGA, WPRODUCTO, WCANTIDAD, WTIPOMOV;
+
+WHILE(C1%FOUND) LOOP
+
+    TM := TM+1;
+    TMA := TMA - F0023(WBODEGA, WPRODUCTO, WCANTIDAD, WTIPOMOV);
+
+
+    FETCH C1 INTO WBODEGA, WPRODUCTO, WCANTIDAD, WTIPOMOV;
+END LOOP;
+
+IF TM = TMA THEN
+    COMMIT;
+ELSE
+    ROLLBACK;
+END IF;
+
+CLOSE C1;
+END;
+/
+
+
+CREATE OR REPLACE FUNCTION F0023( BODEGAF IN INT, PRODUCTO IN INT, CANTPROD IN INT, TIPOMOV IN INT ) 
+RETURN INTEGER  IS
+
+OK INT;
+
+BEGIN
+
+OK := 1;
+
+IF TIPOMOV = 1 THEN
+
+UPDATE INVENTARIO SET CANTIDAD = CANTIDAD - CANTPROD WHERE codigo= producto AND bodega= BODEGAF;
+
+ELSIF TIPOMOV = 2 THEN
+
+UPDATE INVENTARIO SET CANTIDAD = CANTIDAD + CANTPROD WHERE codigo= producto AND bodega= BODEGAF;
+
+END IF;
+
+EXCEPTION
+WHEN OTHERS THEN
+OK:=0;
+
+
+RETURN OK;
+END;
+/
+
+
+CREATE OR REPLACE TRIGGER TR004
+AFTER UPDATE ON sys.INVENTARIO FOR EACH ROW
+BEGIN
+
+IF :NEW.cantidad < :OLD.cantMinimo THEN
+    INSERT INTO sys.OrdenProduccion(usuario, fecha, producto, cantidad)
+    VALUES (:USER, SYSDATE, :NEW.producto, :OLD.reorder );
+  END IF;
+
+END;
+/
+
+
+

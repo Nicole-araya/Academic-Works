@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto_1-NicoleArayaB" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto_1-NicoleArayaB" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto_1-NicoleArayaB" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Source.cpp" />
+		<Unit filename="include/Archivo.h" />
+		<Unit filename="include/BusCar.h" />
+		<Unit filename="include/Excepcion.h" />
+		<Unit filename="include/ListaRuta.h" />
+		<Unit filename="include/ListaTiquete.h" />
+		<Unit filename="include/ListaTransporte.h" />
+		<Unit filename="include/NodoRuta.h" />
+		<Unit filename="include/NodoTiquete.h" />
+		<Unit filename="include/NodoTransporte.h" />
+		<Unit filename="include/Object.h" />
+		<Unit filename="include/RestriccionTransporte.h" />
+		<Unit filename="include/Ruta.h" />
+		<Unit filename="include/RutaBDatos.h" />
+		<Unit filename="include/RutaReservar.h" />
+		<Unit filename="include/Tiquete.h" />
+		<Unit filename="include/TiquteBDatos.h" />
+		<Unit filename="include/Transporte.h" />
+		<Unit filename="include/TransporteBDatos.h" />
+		<Unit filename="src/Archivo.cpp" />
+		<Unit filename="src/BusCar.cpp" />
+		<Unit filename="src/Excepcion.cpp" />
+		<Unit filename="src/ListaRuta.cpp" />
+		<Unit filename="src/ListaTiquete.cpp" />
+		<Unit filename="src/ListaTransporte.cpp" />
+		<Unit filename="src/NodoRuta.cpp" />
+		<Unit filename="src/NodoTiquete.cpp" />
+		<Unit filename="src/NodoTransporte.cpp" />
+		<Unit filename="src/Object.cpp" />
+		<Unit filename="src/RestriccionTransporte.cpp" />
+		<Unit filename="src/Ruta.cpp" />
+		<Unit filename="src/RutaBDatos.cpp" />
+		<Unit filename="src/RutaReservar.cpp" />
+		<Unit filename="src/Tiquete.cpp" />
+		<Unit filename="src/TiquteBDatos.cpp" />
+		<Unit filename="src/Transporte.cpp" />
+		<Unit filename="src/TransporteBDatos.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

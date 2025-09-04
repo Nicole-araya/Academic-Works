@@ -1,0 +1,5 @@
+¿Pueden el proceso padre e hijo acceder al descriptor de archivo retornado por open?
+Si, porque mientras no de error, el padre ejecuta el programa y el hijo siendo su copia tambien.
+
+¿Qué pasa cuando ambos procesos escriben en el archivo de manera concurrente?
+Abria varios problemas, como perdida de informacion, corrupcion de datos, etc. Ya que no se pueden sincronizar para escribir lo que se quiere al mismo tiempo.

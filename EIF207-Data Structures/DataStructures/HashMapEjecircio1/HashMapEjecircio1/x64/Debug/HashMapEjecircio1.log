@@ -1,0 +1,47 @@
+﻿  Source.cpp
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\HashMap.h(62,1): error C2665: 'HashNode<K,V>::HashNode': ninguna de las 3 sobrecargas pudo convertir todos los tipos de argumento
+          with
+          [
+              K=int,
+              V=std::string
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\HashNode.h(17,2): message : puede ser 'HashNode<K,V>::HashNode(const K &,const V &)'
+          with
+          [
+              K=int,
+              V=std::string
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\HashMap.h(62,39): message : 'HashNode<K,V>::HashNode(const K &,const V &)': el argumento 2 no puede convertirse de 'int' a 'const V &'
+          with
+          [
+              K=int,
+              V=std::string
+          ]
+          and
+          [
+              V=std::string
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\HashMap.h(62,1): message : Razón: no se puede realizar la conversión de 'int' a 'const V'
+          with
+          [
+              V=std::string
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\HashMap.h(62,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\HashNode.h(17,2): message : vea la declaración de 'HashNode<K,V>::HashNode'
+          with
+          [
+              K=int,
+              V=std::string
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\HashMap.h(62,1): message : al hacer coincidir la lista de argumentos '(int, int)'
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\HashMap.h(57): message : al compilar la función del miembro clase plantilla "V HashMap<int,V>::deleteNode(int)"
+          with
+          [
+              V=std::string
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\Source.cpp(12): message : Vea la referencia a la creación de una instancia de la función plantilla "V HashMap<int,V>::deleteNode(int)" que se está compilando
+          with
+          [
+              V=std::string
+          ]
+C:\Users\Nicole\Desktop\Estructuras Datos\programas\HashMapEjecircio1\HashMapEjecircio1\Source.cpp(6): message : Vea la referencia a la creación de una instancia de clase plantilla "HashMap<int,std::string>" que se está compilando

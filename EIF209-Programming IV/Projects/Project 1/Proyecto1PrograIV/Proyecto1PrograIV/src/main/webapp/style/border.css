@@ -1,0 +1,11 @@
+
+body{
+    text-align: center;
+}
+header{
+    border-bottom: 2px #F0527B solid;
+}
+
+footer{
+    border-top: 2px #F0527B solid;
+}

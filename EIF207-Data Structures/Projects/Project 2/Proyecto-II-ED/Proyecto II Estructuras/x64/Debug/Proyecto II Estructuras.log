@@ -1,0 +1,4 @@
+﻿  Proyecto II Estructuras.cpp
+C:\Users\Nicole\Desktop\Proyecto-II-ED\Proyecto II Estructuras\Proyecto II Estructuras.cpp(186,16): warning C4101: 'x': variable local sin referencia
+C:\Users\Nicole\Desktop\Proyecto-II-ED\Proyecto II Estructuras\Proyecto II Estructuras.cpp(189,15): warning C4101: 'y': variable local sin referencia
+  Proyecto II Estructuras.vcxproj -> C:\Users\Nicole\Desktop\Proyecto-II-ED\x64\Debug\Proyecto II Estructuras.exe

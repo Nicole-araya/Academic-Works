@@ -1,0 +1,92 @@
+.scriptForm {
+  background-color: white;
+  width: 60%;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.scriptForm > label,
+.scriptForm > div > label {
+  font-size: 2vh;
+  margin: 2vh;
+}
+
+.scriptForm > input,
+#inputContainer > input {
+  padding: 1.2vh;
+  width: 60%;
+  font-size: 1.5vh;
+  margin: 0 2vh;
+  border: none;
+  border-bottom: #2b3fff solid 0.5vh;
+}
+
+.scriptForm > button {
+  margin: 3vh 2vh;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#atras {
+  background-color: #202126;
+}
+
+#atras:hover {
+  background-color: black;
+}
+
+#agregar-input {
+  margin: 3vh 2vh 0 2vh;
+  background-color: #2b3fff;
+}
+
+#agregar-input:hover {
+  background-color: #2939c9;
+}
+
+#opciones-res {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  margin: 1.8vh 0;
+}
+
+#opciones-res > button {
+  background-color: #2b3fff !important;
+}
+
+#opciones-res > button:hover {
+  background-color: #2939c9 !important;
+}
+
+#inputContainer > label {
+  display: block;
+}
+
+.progressBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.progressBar > progress {
+  width: 50vh;
+}
+
+#respuestaPopUp{
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  z-index: 2;
+}
